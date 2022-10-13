@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+.container-login{
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container-login h1{
+    margin-bottom: 30px;
+}
+.container-login div h4{
+    margin-bottom: 30px;
+}
+.container-login input{
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 4px;
+}
+.container-login button{
+    margin-bottom: 10px;
+    padding: 5px;
+    
+}
