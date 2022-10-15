@@ -8,13 +8,13 @@
 
 
 
-# Token authantication using stytch API ,experss and react
+# Token authantication using stytch API ,experss and react(middleware)
 <ul>
   <li>front end - react</li>
   <li>backend-express</li>
   <li>token genarator-stytch api</li>
 </ul>
-<h4>First start server using npm start .then u start react app. go to login page. set ur mail(this token genarator u can only use if uare member of this site. u  can go and create account https://stytch.com/ . after create acc go dash bord and copy api key valuse and pase to the server login root )</h4>
+<h4>First start server using npm start .then u start react app. go to login page. set ur mail(this token genarator u can only use if uare member of this site. u  can go and create account https://stytch.com/ . after create acc go dash bord and copy api key valuse and paste to the server login root )</h4>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
